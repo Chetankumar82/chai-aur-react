@@ -1,0 +1,51 @@
+1. why to learn React?
+-> hype ,job,trend,build UI
+->makes easy to manage & build complex front end
+2. when should i learn react?
+->after mastering js
+->most project don't need react in initial phase
+
+3. why react was created
+->Ghost message problem
+no consistency in UI
+state-> JS  &   UI -> DOM
+  khan Academy -> Unsplash
+
+
+4. Don't learn React if:
+->you do not know how js works or dom works
+
+5. React learning process
+-> go in depth                                                ->By making projects(one topic of a time)   
+      |                                                                   |
+     babel,fibre,virtual dom,hydration                            todo,calculator,Github API,
+     diff algo,              
+
+
+
+6. React is a library
+-> framework vs library
+
+7.Topic to learn
+-> core of react(state or ui manipulation,jsx)
+->component Reusability
+->Reusing of component (props)
+->how to propagate change (hooks)
+
+8. Additional addon to react
+-> Router (react don't have Router)
+-> state mangement (React don't have state management)
+   -> Redux,redux toolkit , zustand,context API
+-> class based component
+   -> legacy code
+->BAAS Apps
+  -> social media clone,e-commerce App................
+
+
+
+9. after React
+ -> React is not a complete solution in must case
+    -> no seo, browser Render of js,no routing
+
+  ->framework
+           next js,getsby,Remix          
